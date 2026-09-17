@@ -324,11 +324,15 @@ Le dépôt global permet de retrouver l'ensemble du projet :
 # 🎓 Contexte académique
 
 **Master 1 Informatique — Parcours ILIADE**
+
 **Université de Bretagne Occidentale (UBO)**
+
 **UE : Systèmes d'Information**
+
 **Année universitaire : 2024/2025**
 
 **Projet de groupe : MemorySafe**
+
 **Microservice : Academic Year**
 
 ## LICENCE MIT
